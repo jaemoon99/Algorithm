@@ -66,7 +66,7 @@ int main() {
         {0, 0, 0, 15, 0, 0, 0, 9, 5, 0}
     };
 
-    dijkstra(graph, 2); // 서울은 인덱스 2에 해당합니다
+    dijkstra(graph, 8); // 서울은 인덱스 2에 해당합니다
 
     return 0;
 }

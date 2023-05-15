@@ -23,6 +23,7 @@ int set_find(int curr)
 }
 
 // 두개의 원소가 속한 집합을 합친다.
+
 void set_union(int a, int b)
 {
     int root1 = set_find(a);
